@@ -1,6 +1,5 @@
 # Maven
 target/
-*.log
 
 # IntelliJ
 .idea/
