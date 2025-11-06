@@ -6,7 +6,7 @@ import java.util.Queue;
 
 @Data
 public class Topic {
-    private String topic;
+    private String name;
     private Queue<Message> messages;
     private Long createdAt;
     private int retentionHours;

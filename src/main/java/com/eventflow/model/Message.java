@@ -10,6 +10,6 @@ public class Message {
     private String topic;
     private String key;
     private String value;
-    private Long timeStamp;
+    private Long timestamp;
     private Map<String, String> headers;
 }
